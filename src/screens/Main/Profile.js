@@ -3,6 +3,7 @@ import _ from "lodash"; // HELP CONVERT OBJECT TO ARRAY
 import { Text, View } from "react-native";
 import React, { Component } from "react";
 import { Avatar } from "react-native-elements";
+import firebase from "firebase";
 // import { connect } from "react-redux";
 
 import MyButton from "../../components/Button";

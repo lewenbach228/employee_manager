@@ -28,6 +28,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "React native app using firebase with create, update, delete and read method. Bottom navigation and communication (sms and call)"
+    "description": "React native app using firebase with create, update, delete and read method. Bottom navigation and communication (sms and call)",
+    "githubUrl": "https://github.com/lewenbach228/employee_manager"
   }
 }
